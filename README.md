@@ -1,2 +1,4 @@
 # py-class
-class one 
+class one
+
+edit this file from local to test merge confict  
